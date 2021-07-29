@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @FreeGoProCodes
 - 👀  This account has been made because my actual account @GoProCodes got flagged.
-- 💞️  I know these languages: Node.JS, C#, Python and learning Java
+- 💞️  I can't code in: Node.JS, C#, Python and Java
 - 📫  You can reach me on Discord: ``The Real Trollface#9494``
 
 <!---
